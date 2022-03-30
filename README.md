@@ -28,7 +28,7 @@ Muitas abordagens clássicas de Aprendizado de Máquina são propostas na litera
 
 ### Base de dados
 
-[Pima Indians Diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
+- [Pima Indians Diabetes](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 ### Pré-processamento
 
@@ -42,8 +42,8 @@ Muitas abordagens clássicas de Aprendizado de Máquina são propostas na litera
 
 ### Aprimoramento de hiperparâmetros
 
-- [x] - Uso da busca em grade (Grid Search)(https://scikit-learn.org/stable/modules/grid_search.html)
-- [x] - Validação cruzada (k = 5) 
+- [x] - [Uso da busca em grade GridSearch](https://scikit-learn.org/stable/modules/grid_search.html)
+- [x] - Validação cruzada 
 
 ### Métricas de avaliação
 
